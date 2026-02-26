@@ -22,7 +22,7 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "embu sema 'no' tuone 😏",
+    "embu sema no, tuone 😏",
     "Hmmm embu jaribu bado 👀",
     "you're missing out 😈",
     "click no, I dare you 😏"
