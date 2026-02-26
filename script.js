@@ -11,19 +11,19 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Are you positive? (no?)🤔",
+    "Pookie please... (no?)🥺",
+    "If you say click again, I will be really sad...",
+    "I will be very sad...(tf?) 😢",
+    "Please???(still no?) 💔",
+    "Don't do this to me...(TENA? Heh)",
+    "Last chance! 😭(no?)",
+    "Holy Ghost FAYA (KOMA!) 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
+    "embu sema "no" tuone 😏",
+    "Hmmm embu jaribu bado 👀",
     "you're missing out 😈",
     "click no, I dare you 😏"
 ]
