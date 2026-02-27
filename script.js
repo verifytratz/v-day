@@ -15,7 +15,7 @@ const noMessages = [
     "Pookie please... (still,no)🥺",
     "If you click no again, I will be really sad...",
     "I will be very sad...(NO! tf?) 😢",
-    "Please???(still no!) 💔",
+    "Now you CAN'T say NO 💔",
     "Don't do this to me...(Ugh.. Bob, NO!)",
     "Last chance! 😭(N.O. NOOOO!)",
     "Holy Ghost FAYA (KOMA!) 😜"
