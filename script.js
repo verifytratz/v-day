@@ -13,10 +13,10 @@ const noMessages = [
     "No",
     "Are you positive? (still,no)🤔",
     "Pookie please... (still,no)🥺",
-    "If you say click again, I will be really sad...",
-    "I will be very sad...(NO Bob, tf?) 😢",
+    "If you click no again, I will be really sad...",
+    "I will be very sad...(NO! tf?) 😢",
     "Please???(still no!) 💔",
-    "Don't do this to me...(Ugh.. Bob)",
+    "Don't do this to me...(Ugh.. Bob, NO!)",
     "Last chance! 😭(N.O. NOOOO!)",
     "Holy Ghost FAYA (KOMA!) 😜"
 ]
@@ -24,8 +24,8 @@ const noMessages = [
 const yesTeasePokes = [
     "embu sema no, tuone 😏",
     "Hmmm embu jaribu bado 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "eh! jamani 😈",
+    "Pride go kill you ooo 😏"
 ]
 
 let yesTeasedCount = 0
